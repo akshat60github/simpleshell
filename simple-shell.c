@@ -1,4 +1,4 @@
-// ULTIMATE C SHELL (meechan++)
+// ULTIMATE C SHELL
 // Features: Piping, Redirection, History, Background Jobs, Built-ins, Shared Memory Logging, etc.
 
 #include <stdio.h>
